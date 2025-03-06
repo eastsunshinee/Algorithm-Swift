@@ -1,0 +1,9 @@
+# Xcode 관련 불필요한 파일 무시
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+*.xcassets/
+build/
+.DS_Store
