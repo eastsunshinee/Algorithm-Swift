@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+# 🏆 Level 2 문제 모음
+
+이 폴더에는 프로그래머스 Level 2 난이도의 문제 풀이가 포함되어 있습니다.
+
+## 📌 포함된 문제
+- **TwoSum.swift** → 두 수의 합을 찾는 문제
+
+각 문제별 설명은 코드 내부의 주석 또는 개별 README에서 확인하세요.
